@@ -3,7 +3,6 @@
 This project focuses on the analysis of a footwear-based dataset to uncover meaningful insights and relationships between customers, products, sales representative and suppliers. The goal is to evaluate sales patterns, customer behavior, product performance, and supplier contributions to drive data-informed business decisions.
 
 📦 Dataset Structure
-
 The dataset is structured across five key relational tables:
 
 Sales — Records of all transactions including products, quantities, prices, sales_representatives and dates.
@@ -50,28 +49,6 @@ Sales Representatives — Details of sales representative including unique id, h
 
 • Repeat Customers: Differentiated new vs. returning customers.
 
-• Avg Unit Price: Gave insights into price sensitivity by customer.
-
-• Spending by State: State-level spending analysis for regional marketing.
-
-• Top Supplier: Identified the most purchased supplier.
-
-• Top Product Category: Found the dominant product category.
-
-• Cross-Category Customers: Identified customers purchasing across categories.
-
-🎯 Objective 2: Customer & Product Insights
-
-• Avg Spending Per Customer: Revealed lifetime value for loyalty programs.
-
-• Most Purchased Product: Identified popular products for inventory planning.
-
-• Unique Customers by City: Analyzed customer reach per location.
-
-• Category Distribution: Showed customer preference by product category.
-
-• Repeat Customers: Differentiated new vs. returning customers.
-
 • Avg Unit Price: Provided insights into price sensitivity by customer.
 
 • Spending by State: Conducted state-level analysis for regional marketing.
@@ -81,6 +58,7 @@ Sales Representatives — Details of sales representative including unique id, h
 • Top Product Category: Found the dominant product category.
 
 • Cross-Category Customers: Identified customers purchasing across categories.
+
 🎯 Objective 3: Supplier & Product Performance
 • Supplier Sales: Analyzed total revenue by supplier.
 
