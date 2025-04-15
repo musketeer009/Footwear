@@ -16,6 +16,67 @@ Suppliers — Information about product suppliers.
 Sales Representatives — Details of sales representative including unique id, hiredate and region.
 
 
+🎯 **Objective 1: Sales Performance**
+
+• **Top Sales Reps:** Analyzed sales by **rep** to identify **top performers**.  
+
+• **Store Sales:** Ranked **store locations** by **products sold**, showing **high-traffic areas**.  
+
+• **Top Product Category:** Identified highest **revenue-generating categories**.  
+
+• **Average Sale Size:** Analyzed **average quantity sold** to spot **buying patterns**.  
+
+• **Top Customer:** Found the **customer** with the highest **purchase volume**.  
+
+• **Monthly Sales:** Analyzed **sales trends** to identify **peak months**.  
+
+• **Regional Sales:** Compared **sales by region** to guide **expansion**.  
+
+• **Product Sales:** **Revenue analysis** by **product** to spot **high-value inventory**.  
+
+• **Sales per Transaction:** Assessed **average transaction value** for **customer insights**.  
+
+• **Rep Sales Transactions:** Tracked **sales volume per rep** for **performance reviews**.  
+
+---
+
+🎯 **Objective 2: Customer & Product Insights**
+
+• **Avg Spending Per Customer:** Revealed **lifetime value** for **loyalty programs**.  
+
+• **Most Purchased Product:** Identified **popular products** for **inventory planning**.  
+
+• **Unique Customers by City:** Analyzed **customer reach** per **location**.  
+
+• **Category Distribution:** Showed **customer preference** by **product category**.  
+
+• **Repeat Customers:** Differentiated **new vs. returning customers**.  
+
+• **Avg Unit Price:** Provided insights into **price sensitivity** by **customer**.  
+
+• **Spending by State:** Conducted **state-level analysis** for **regional marketing**.  
+
+• **Top Supplier:** Identified the **most purchased supplier**.  
+
+• **Top Product Category:** Found the **dominant product category**.  
+
+• **Cross-Category Customers:** Identified **customers purchasing across categories**.  
+
+---
+
+🎯 **Objective 3: Supplier & Product Performance**
+
+• **Supplier Sales:** Analyzed **total revenue** by **supplier**.  
+
+• **Top Supplier by Price:** Identified suppliers offering **premium-priced products**.  
+
+• **Product Variety by Supplier:** Compared **product selection** across suppliers.  
+
+• **Avg Sales per Supplier:** Analyzed **supplier impact** on **average sales**.  
+
+• **Top Supplier by Quantity Sold:** Found suppliers with the **fastest-moving products**.  
+
+• **Supplier Comparison:** Compared **total sales** and **quantities** across suppliers.  
 
 🎯 Objective 1: Sales Performance
 • Top Sales Reps: Analyzed sales by rep to identify top performers.
