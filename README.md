@@ -2,6 +2,7 @@
 
 This project focuses on the analysis of a footwear-based dataset to uncover meaningful insights and relationships between customers, products, sales representative and suppliers. The goal is to evaluate sales patterns, customer behavior, product performance, and supplier contributions to drive data-informed business decisions.
 
+📦 Dataset Structure
 The dataset is structured across five key relational tables:
 
 Sales — Records of all transactions including products, quantities, prices, sales_representatives and dates.
