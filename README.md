@@ -60,6 +60,27 @@ Sales Representatives — Details of sales representative including unique id, h
 
 • Cross-Category Customers: Identified customers purchasing across categories.
 
+🎯 Objective 2: Customer & Product Insights
+
+• Avg Spending Per Customer: Revealed lifetime value for loyalty programs.
+
+• Most Purchased Product: Identified popular products for inventory planning.
+
+• Unique Customers by City: Analyzed customer reach per location.
+
+• Category Distribution: Showed customer preference by product category.
+
+• Repeat Customers: Differentiated new vs. returning customers.
+
+• Avg Unit Price: Provided insights into price sensitivity by customer.
+
+• Spending by State: Conducted state-level analysis for regional marketing.
+
+• Top Supplier: Identified the most purchased supplier.
+
+• Top Product Category: Found the dominant product category.
+
+• Cross-Category Customers: Identified customers purchasing across categories.
 🎯 Objective 3: Supplier & Product Performance
 • Supplier Sales: Analyzed total revenue by supplier.
 
