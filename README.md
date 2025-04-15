@@ -78,6 +78,8 @@ The dataset is structured across five key relational tables:
 
 • **Supplier Comparison:** Compared **total sales** and **quantities** across suppliers.  
 
+---
+
 Suggested Graphs:
 
 Bar Chart: Total Sales by Sales Representative
@@ -94,7 +96,7 @@ Stacked Bar Chart: Supplier Performance (Sales vs. Quantity)
 
 
 
-📌 Result Conclusion
+📌**Result Conclusion**
 🧑‍💼 Sales Representatives: Only 10 sales representatives contributed to total sales.
 
 📦 Products Sold per Sales Rep: Each salesperson sold 5 products.
