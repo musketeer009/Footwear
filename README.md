@@ -1,3 +1,5 @@
+![ChatGPT Image Apr 15, 2025, 09_24_00 PM](https://github.com/user-attachments/assets/3cb1e2d9-0c0d-46f8-bdde-da59f5cb0e43)
+
 📊 Footwear Data Analysis: From Suppliers to Sales
 
 This project focuses on the analysis of a footwear-based dataset to uncover meaningful insights and relationships between customers, products, sales representative and suppliers. The goal is to evaluate sales patterns, customer behavior, product performance, and supplier contributions to drive data-informed business decisions.
@@ -79,19 +81,25 @@ The dataset is structured across five key relational tables:
 • **Supplier Comparison:** Compared **total sales** and **quantities** across suppliers.  
 
 ---
+🛠️ Tools & Technologies Used: Microsoft Excel, SQL, Power BI, Python (Pandas, Matplotlib, Seaborn)
 
-Suggested Graphs:
+Graphs:
 
-Bar Chart: Total Sales by Sales Representative
+![d9e5e382-2117-4ec5-9c7a-b09f0dca2299](https://github.com/user-attachments/assets/e6cdaa94-d797-4380-9a4b-6ab9d1df414c)
 
-Pie Chart: Sales by Product Category
+![53870df8-ff8f-4fed-966e-084e6d4efc23](https://github.com/user-attachments/assets/e41e618b-a969-43bc-99e6-1f8ab61c2523)
 
-Line Graph: Monthly Sales Trends
 
-Bar Chart: Top Customers by Purchase Volume
+C![product by unit price](https://github.com/user-attachments/assets/332f52aa-4b2c-4161-bf00-d8e19c8a96fc)
+ategory
 
-Stacked Bar Chart: Supplier Performance (Sales vs. Quantity)
 
+
+![dailyyyyy](https://github.com/user-attachments/assets/4c601a0c-6d56-4abe-82ce-c0f42dd1943f)
+
+![top customer purchase](https://github.com/user-attachments/assets/9098462c-28a8-4f40-a132-1545cd632df2)
+
+![supplier vs quaantity](https://github.com/user-attachments/assets/1d837bda-4bde-4fe1-829b-ed04bee2442e)
 
 
 
@@ -121,7 +129,3 @@ Stacked Bar Chart: Supplier Performance (Sales vs. Quantity)
 
 📊 Product Category Sales: Products from each category were sold in equal quantities.
 
-
-✨ Sales Strategy: Focus on high-performing sales reps and top categories to drive future revenue.
-🔍 Customer Behavior: Seasonal trends and customer loyalty insights offer opportunities for tailored marketing and inventory adjustments.
-💡 Supplier Focus: Maximize relationships with top suppliers and high-performing products to optimize stock and sales.
