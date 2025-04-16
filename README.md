@@ -81,10 +81,10 @@ The dataset is structured across five key relational tables:
 • **Supplier Comparison:** Compared **total sales** and **quantities** across suppliers.  
 
 ---
-🛠️ Tools & Technologies Used:
-• Microsoft Excel — for data cleaning and preliminary analysis
-• SQL — for structured data querying and extraction
-• Python (Matplotlib) — for data manipulation and visualization
+🛠️ **Tools & Technologies Used:**
+• **Microsoft Excel** — for data cleaning and preliminary analysis
+• **SQL** — for structured data querying and extraction
+•** Python (Matplotlib)** — for data manipulation and visualization
 
 ---
 
