@@ -81,7 +81,12 @@ The dataset is structured across five key relational tables:
 • **Supplier Comparison:** Compared **total sales** and **quantities** across suppliers.  
 
 ---
-🛠️ Tools & Technologies Used: Microsoft Excel, SQL, Power BI, Python (Pandas, Matplotlib, Seaborn)
+🛠️ Tools & Technologies Used:
+• Microsoft Excel — for data cleaning and preliminary analysis
+• SQL — for structured data querying and extraction
+• Python (Matplotlib) — for data manipulation and visualization
+
+---
 
 Graphs:
 
@@ -90,9 +95,7 @@ Graphs:
 ![53870df8-ff8f-4fed-966e-084e6d4efc23](https://github.com/user-attachments/assets/e41e618b-a969-43bc-99e6-1f8ab61c2523)
 
 
-C![product by unit price](https://github.com/user-attachments/assets/332f52aa-4b2c-4161-bf00-d8e19c8a96fc)
-ategory
-
+![product by unit price](https://github.com/user-attachments/assets/332f52aa-4b2c-4161-bf00-d8e19c8a96fc)
 
 
 ![dailyyyyy](https://github.com/user-attachments/assets/4c601a0c-6d56-4abe-82ce-c0f42dd1943f)
@@ -101,8 +104,7 @@ ategory
 
 ![supplier vs quaantity](https://github.com/user-attachments/assets/1d837bda-4bde-4fe1-829b-ed04bee2442e)
 
-
-
+---
 
 📌**Result Conclusion**
 🧑‍💼 Sales Representatives: Only 10 sales representatives contributed to total sales.
