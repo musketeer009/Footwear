@@ -82,8 +82,10 @@ The dataset is structured across five key relational tables:
 
 ---
 🛠️ Tools & Technologies Used:
-• Microsoft Excel — for data cleaning and preliminary analysis
+•Microsoft Excel — for data cleaning and preliminary analysis
+
 • SQL — for structured data querying and extraction
+
 • Python (Matplotlib) — for data manipulation and visualization
 ---
 
