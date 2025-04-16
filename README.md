@@ -86,7 +86,8 @@ The dataset is structured across five key relational tables:
 
 • **SQL** — for structured data querying and extraction<br>
 
-Python (Matplotlib) — for data manipulation and visualization<br>
+• **Python (Matplotlib)** — for data manipulation and visualization<br>
+
 ---
 
 Graphs:
